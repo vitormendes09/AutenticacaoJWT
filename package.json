@@ -10,6 +10,7 @@
   "license": "MIT",
   "description": "Projeto para mostrar conhecimentos em autenticação em JWT utilizando typeScript",
   "scripts": {
+    "dev": "ts-node-dev  src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
